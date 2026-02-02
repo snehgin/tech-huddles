@@ -2,7 +2,7 @@
  - Coding Problems
  - Dotnet
  - Azure
- - (Good Reads)[https://github.com/snehgin/tech-huddles/blob/my-pages/good_reads.md]
+ - [Good Reads](https://github.com/snehgin/tech-huddles/blob/my-pages/good_reads.md)
  - Architecture
 
 ## Latest
